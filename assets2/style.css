@@ -1,0 +1,34 @@
+body{
+    background:url(imagem/Mundo\ Bita\ -\ Sol\ PNG\ -.jpeg) no-repeat center;
+    background-size: cover; 
+    background-attachment: fixed;
+
+
+ #perfil p {
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+
+#Pedro {
+    display: flex;
+    justify-content: center;
+    padding-inline-end: 5px;
+
+    
+}
+
+ #Pedro img {
+    border: 5px solid black; /* Largura, estilo e cor da borda */
+    border-radius: 50%; /* Bordas arredondadas */
+    height: 200px;
+
+    margin-top: 30px;
+
+} 
+  
+}
+
+ 
+
